@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            招财猫的资料分享站
 tagline:          'A Jekyll theme'
 description:      ' <a href="https://cat-zhaocai.github.io/ target="_blank">招财猫</a> 的资料分享站'
-url:              https://cat-zhaocai.github.io/
+url:              https://cat-zhaocai.github.io
 baseurl:          '/share'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
