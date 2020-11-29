@@ -3,11 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            招财猫的资料分享站
+title:            Hydeout
 tagline:          'A Jekyll theme'
-description:      ' <a href="https://cat-zhaocai.github.io/ target="_blank">招财猫</a> 的资料分享站'
-url:              https://cat-zhaocai.github.io
-baseurl:          '/share'
+description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+url:              https://fongandrew.github.io
+baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -15,8 +15,8 @@ baseurl:          '/share'
                   # sidebar_blog_link below.
 
 author:
-  name:           'cat-zhaocai'
-  url:            https://cat-zhaocai.github.io
+  name:           'Andrew Fong'
+  url:            https://twitter.com/fongandrewc
 
 paginate:         5
 # paginate_path:    '/page:num'
