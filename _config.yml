@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            招财猫的资料分享站
+title:            资料分享
 tagline:          'A Jekyll theme'
 description:      '<a href="https://cat-zhaocai.github.io/share/" target="_blank">招财猫的资料分享站</a>'
 url:              https://cat-zhaocai.github.io
