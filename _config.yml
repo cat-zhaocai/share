@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            ÕĞ²ÆÃ¨µÄ×ÊÁÏ·ÖÏíÕ¾
+title:            æ‹›è´¢çŒ«çš„èµ„æ–™åˆ†äº«ç«™
 tagline:          'A Jekyll theme'
-description:      '<a href="https://cat-zhaocai.github.io/share/" target="_blank">ÕĞ²ÆÃ¨µÄ×ÊÁÏ·ÖÏíÕ¾</a>'
+description:      '<a href="https://cat-zhaocai.github.io/share/" target="_blank">æ‹›è´¢çŒ«çš„èµ„æ–™åˆ†äº«ç«™</a>'
 url:              https://cat-zhaocai.github.io
 baseurl:          '/share'
                   # the optional subpath of your site, e.g. "/blog"
